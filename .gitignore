@@ -1,0 +1,33 @@
+﻿# OS
+Thumbs.db
+.DS_Store
+
+# VS / Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code (ignore local settings)
+.vscode/
+
+# .NET / MAUI
+bin/
+obj/
+*.userprefs
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+MemoryCaptures/
+obj/
+*.unitypackage
+
+# Node (for web later)
+node_modules/
+
+# Secrets
+*.env
+appsettings.Development.json

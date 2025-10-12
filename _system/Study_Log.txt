@@ -1,0 +1,45 @@
+🗒️ Study & Learn — Study Log (v1.0)
+
+Purpose: quick reflections after each session to lock in memory and guide adaptations. I’ll append entries here when you run `save study log`.
+
+──────────  TEMPLATE ENTRY  ──────────
+Date:
+Lesson(s) covered:
+Pre-Test quick summary (what felt known vs unknown):
+Today’s key concept(s):
+What clicked:
+What was fuzzy:
+Where I want more practice:
+What I built / changed:
+Time spent:
+Mood / energy:
+Next step suggestion (AI):
+
+──────────  RUNNING ENTRIES  ──────────
+
+Date: 2025-10-10
+Lesson(s) covered: C# Basics – Variables & Types
+Pre-Test quick summary: Confident with core terms; small syntax gaps.
+Today’s key concept(s): Declaring and using variables; input/output; type conversion with Parse; string interpolation.
+What clicked: Relationship between variable types and data.
+What was fuzzy: Remembering exact punctuation and modifiers like $.
+Where I want more practice: Syntax precision and efficient logic.
+What I built / changed: Name-and-score console app with bonus calculation.
+Time spent: ~40 minutes
+Mood / energy: Focused and optimistic; “good kind of hard.”
+Next step suggestion (AI): Proceed to Lesson 2 — Control Flow (if/else, loops).
+
+---
+
+──────────  ENTRY  ──────────
+Date: 2025-10-11
+Lesson(s) covered: C# Control Flow 2
+Pre-Test quick summary: Knew basics of if/else and loops; unsure about when to use for vs while.
+Today’s key concept(s): Conditional branching (if/else, logical operators) and iterative control (for, while, do...while).
+What clicked: Loop syntax and modular (CodexBuzz) pattern logic; how to combine multiple conditions.
+What was fuzzy: Deciding when to use for vs while; will explore more examples.
+Where I want more practice: Nested conditionals and input validation.
+What I built / changed: Even/Odd Countdown program and CodexBuzz stretch challenge.
+Time spent: ~45 min
+Mood / energy: Focused, confident.
+Next step suggestion (AI): Begin Lesson 3 – C# Classes & Objects after reviewing the difference between for- and while-loops in small test snippets.

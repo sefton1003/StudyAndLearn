@@ -1,0 +1,35 @@
+📊 Study & Learn — Lesson Tracker (v1.0)
+
+Use this to record diagnostics, mastery, and notes per lesson. One line per lesson. I’ll update it as you complete sessions.
+
+Fields
+Lesson | Track | Level Target | PreTest % | PostTest % | Booster? | Mastery (Y/N) | Date | Notes
+
+──────────  TEMPLATE ROWS  ──────────
+C# Basics 1 — Variables & Types | C# Fundamentals | C# Apprentice |  |  |  |  |  |
+C# Control Flow 2 | C# Fundamentals | C# Apprentice |  |  |  |  |  |
+C# Classes & Objects 3 | C# Fundamentals | C# Apprentice |  |  |  |  |  |
+Unity Intro 1 — Scene & Script | Unity Development | Unity Explorer |  |  |  |  |  |
+Unity 2 — Prefabs & Input | Unity Development | Unity Explorer |  |  |  |  |  |
+Unity 3 — Tilemap & Collisions | Unity Development | Unity Explorer |  |  |  |  |  |
+Codex 1 — Prompting for Code | Codex & Agents | Codex Collaborator |  |  |  |  |  |
+Codex 2 — Refactor & Tests | Codex & Agents | Codex Collaborator |  |  |  |  |  |
+Agents 1 — Tools & Handoffs | Codex & Agents | Codex Collaborator |  |  |  |  |  |
+Design 1 — Core Loop | Design Theory | Systems Designer |  |  |  |  |  |
+Design 2 — Feedback & Pacing | Design Theory | Systems Designer |  |  |  |  |  |
+
+Totals / Progress
+
+* Lessons completed:
+* Current Level:
+* Next suggested lesson:
+
+---
+
+C# Basics 1 — Variables & Types | C# Fundamentals | C# Apprentice | 90 | 100 | No | Yes | 2025-10-10 | Strong conceptual understanding; syntax fluency building; enjoys logical problem solving.
+
+---
+
+C# Control Flow 2 | C# Fundamentals | C# Apprentice | 80 | 95 | No | Y | 2025-10-11 | Completed stretch (CodexBuzz 99%)
+
+---

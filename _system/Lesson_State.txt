@@ -1,0 +1,49 @@
+🧷 Study & Learn — Lesson State (auto‑checkpoint)
+
+Purpose: a single, lightweight state file so you can pause mid‑lesson and resume later without losing your place. I’ll update this automatically whenever you run, pause, submit, or evaluate a lesson.
+
+Fields (current session)
+
+* CurrentLesson:
+* Phase:  (Pre‑Test | Lesson Core | Guided Practice | Post‑Test | Reflection)
+* StartedAt:
+* LastUpdated:
+* PreTestScore:
+* PostTestScore:
+* BoosterNeeded:  (Yes/No)
+* NextAction:  (what to do on resume)
+* Notes:
+
+Usage
+
+* To pause: type `save study log` (optional note) — I will also checkpoint here.
+* To resume: type `resume lesson <n>` or `continue lesson` and I’ll jump to `NextAction`.
+
+History (recent checkpoints)
+[keep last 10 checkpoints appended below]
+
+[2025-10-11] Lesson 2 complete – mastery achieved, next Lesson 3.
+
+---
+
+CurrentLesson: C# Basics – Variables & Types
+Phase: Completed
+StartedAt: 2025-10-10
+LastUpdated: 2025-10-10
+PreTestScore: 90
+PostTestScore: 100
+BoosterNeeded: No
+NextAction: Begin Lesson 2 – C# Control Flow (Pre-Test)
+Notes: Mastery achieved; ready to advance. Syntax awareness growing; positive mindset.
+
+---
+
+* CurrentLesson: 2
+* Phase: Reflection
+* StartedAt: 2025-10-11
+* LastUpdated: 2025-10-11
+* PreTestScore: 80
+* PostTestScore: 95
+* BoosterNeeded: No
+* NextAction: Begin Lesson 3 – C# Classes & Objects
+* Notes: Completed CodexBuzz stretch (99%).
