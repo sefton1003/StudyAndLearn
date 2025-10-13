@@ -4,7 +4,7 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lessons", "lessons", "{8192351E-FD52-EF8C-5575-C33A8383A8C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson00_HelloWorld", "lessons\Lesson00_HelloWorld\Lesson00_HelloWorld.csproj", "{CBA5F1F1-F4EC-F338-9AB5-CB621A41C9CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_ControlFlow", "lessons\Lesson02_ControlFlow\Lesson02_ControlFlow.csproj", "{837304D3-0407-373F-F833-1513D38D00B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,18 +12,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CBA5F1F1-F4EC-F338-9AB5-CB621A41C9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CBA5F1F1-F4EC-F338-9AB5-CB621A41C9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CBA5F1F1-F4EC-F338-9AB5-CB621A41C9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CBA5F1F1-F4EC-F338-9AB5-CB621A41C9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837304D3-0407-373F-F833-1513D38D00B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837304D3-0407-373F-F833-1513D38D00B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837304D3-0407-373F-F833-1513D38D00B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837304D3-0407-373F-F833-1513D38D00B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{CBA5F1F1-F4EC-F338-9AB5-CB621A41C9CF} = {8192351E-FD52-EF8C-5575-C33A8383A8C9}
+		{837304D3-0407-373F-F833-1513D38D00B9} = {8192351E-FD52-EF8C-5575-C33A8383A8C9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6550CB47-56DD-431B-A7B6-0AE866BDB654}
+		SolutionGuid = {967CB056-5573-4A54-B9AE-BA588248CD8B}
 	EndGlobalSection
 EndGlobal

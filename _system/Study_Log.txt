@@ -68,4 +68,12 @@ Next: Open VS Code, install C# Dev Kit + .NET tools, and run “Hello World”
 Status: Environment confirmed working  
 Next → Lesson 3 (C# Classes & Objects)
 
+=== 2025-10-13 ===
+• Created Lesson00_HelloWorld project and confirmed successful build
+• Committed verified environment to Git
+• Added setup-complete tag for stable baseline
+• Established Study & Learn Git Tagging Reference in Instructions
+Status: Version control workflow fully operational
+Next → Lesson 3: C# Classes & Objects
+
 ---

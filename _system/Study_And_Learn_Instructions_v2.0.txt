@@ -141,6 +141,41 @@ Each closes with `save study log` to keep everything synced.
 
 ---
 
+### 🏷️ Git Tagging Reference
+
+Tags mark key milestones in your Study & Learn history.
+Each tag freezes a verified snapshot you can always return to.
+
+**Format:**
+
+```
+<category>-<identifier>[-optional-detail]
+```
+
+**Examples**
+
+| Tag                   | When to Use                                       | Meaning                       |
+| --------------------- | ------------------------------------------------- | ----------------------------- |
+| `setup-complete`      | Once, after environment verification              | Stable base configuration     |
+| `lesson-01-complete`  | End of a numbered lesson                          | Lesson finished and committed |
+| `lesson-03-classes`   | End of Lesson 3 (Classes & Objects)               | Adds topic for clarity        |
+| `maui-helloassistant` | After finishing first MAUI prototype              | App milestone                 |
+| `unity-lab-01`        | After completing first Unity lab                  | Game lab milestone            |
+| `phase-1-complete`    | End of a major level (Apprentice, Explorer, etc.) | End-of-phase checkpoint       |
+
+**Commands**
+
+```bash
+git tag -a setup-complete -m "Environment verified"
+git tag                        # list all tags
+git show <tagname>             # view details
+git checkout <tagname>         # temporarily roll back to that snapshot
+```
+
+Use tags at the end of major lessons or milestones to keep your Git history clean and your progress easy to revisit.
+
+---
+
 ### 🧭 Companion Guidelines
 
 - Always teach, never do.  
