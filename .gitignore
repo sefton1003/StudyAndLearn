@@ -31,3 +31,5 @@ node_modules/
 # Secrets
 *.env
 appsettings.Development.json
+
+.fake

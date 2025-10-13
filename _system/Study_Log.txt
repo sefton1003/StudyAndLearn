@@ -43,3 +43,21 @@ What I built / changed: Even/Odd Countdown program and CodexBuzz stretch challen
 Time spent: ~45 min
 Mood / energy: Focused, confident.
 Next step suggestion (AI): Begin Lesson 3 – C# Classes & Objects after reviewing the difference between for- and while-loops in small test snippets.
+---
+=== 2025-10-12 ===
+• Reorganized Study & Learn folder structure
+• Created Dev\StudyAndLearn workspace with proper subfolders
+• Initialized Git repository and first commit
+• Linked VS Code and confirmed working tree clean
+• Verified Source Control integration (blue Publish Branch)
+Next step: configure VS Code for C# extensions and test Hello World.
+---
+=== 2025-10-12 ===
+• Completed full Setup Cycle
+• Verified Git installation and commit workflow
+• Linked VS Code successfully (Source Control clean)
+• Created and installed v2.0 Instructions and Project Instructions
+• Added Life Map and confirmed doc structure under /docs
+Status: Setup Cycle Complete — environment verified, ready for Lesson 0.2 (VS Code C# configuration)
+Next: Open VS Code, install C# Dev Kit + .NET tools, and run “Hello World”
+---

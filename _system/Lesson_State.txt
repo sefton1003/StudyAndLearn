@@ -23,6 +23,9 @@ History (recent checkpoints)
 [keep last 10 checkpoints appended below]
 
 [2025-10-11] Lesson 2 complete – mastery achieved, next Lesson 3.
+[2025-10-12] Setup Cycle complete — environment verified, Git and VS Code configured.  
+NextAction: Begin Lesson 0.2 – VS Code Configuration & Hello World.  
+Notes: Workspace stable; ready to test C# extensions and run first console program.
 
 ---
 
@@ -47,3 +50,5 @@ Notes: Mastery achieved; ready to advance. Syntax awareness growing; positive mi
 * BoosterNeeded: No
 * NextAction: Begin Lesson 3 – C# Classes & Objects
 * Notes: Completed CodexBuzz stretch (99%).
+---
+

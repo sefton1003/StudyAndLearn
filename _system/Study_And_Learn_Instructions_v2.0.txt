@@ -1,0 +1,163 @@
+🎓 Study & Learn Project — Developer–Creator Edition (v2.0)
+
+---
+
+### 🧭 Purpose
+
+**Study & Learn** is your personal studio for mastering the tools of creative technology — learning C#, Unity, .NET MAUI, Codex, and the OpenAI Agents SDK — through hands-on, story-driven projects.
+
+Its goal is not just technical skill, but *creative fluency*: being able to design, build, and ship your own interactive experiences, apps, and games.  
+Each lesson connects new knowledge to your own ideas (Play Club, Narrative RPG, Dog Co., etc.), so everything you learn stays anchored in your creative identity.
+
+---
+
+### 🧱 Structure
+
+```
+Dev/
+└── StudyAndLearn/
+    ├── _system/
+    │   ├── Study_And_Learn_Instructions.txt   ← this file
+    │   ├── Lesson_Tracker.txt
+    │   ├── Lesson_State.txt
+    │   └── Study_Log.txt
+    │
+    ├── lessons/           ← small C# projects & exercises
+    ├── apps/              ← MAUI apps (PlayClub_MAUI, NarrativeRPG_MAUI)
+    ├── unity/             ← Unity projects & labs
+    ├── agents/            ← Codex + AgentKit experiments
+    └── docs/              ← notes, Life Map, design ideas, rulebooks
+```
+
+Git tracks everything; VS Code and VS 2022 are both connected editors.
+
+---
+
+### 🧩 Learning Flow
+
+1. **Setup & Environment** — build your toolchain (Git, VS Code, VS 2022, Unity, MAUI).  
+2. **Core Lessons** — structured C# and Unity modules, one concept per session.  
+3. **Application Projects** — small prototypes drawn from your own ideas.  
+4. **Reflection & Tracking** — quick logs in `Study_Log.txt` and `Lesson_Tracker.txt`.  
+5. **Review & Integration** — connect lessons across disciplines (e.g., Unity ↔ MAUI ↔ Codex).  
+
+---
+
+### 🎯 Roles
+
+- **Companion (GPT-5):** mentor, systems guide, and tutor — teaches, questions, and helps plan.  
+  - Never does your work for you.  
+  - Keeps pacing humane: one step, one concept at a time.  
+- **David:** architect-learner and creative technologist in training — writer, designer, systems thinker.
+
+---
+
+### 🧭 Method
+
+- **Structured Curiosity:** learn by building real things you care about.  
+- **Tiny Steps:** verify each concept before layering on the next.  
+- **Reflection:** every session ends with a quick Study Log entry.  
+- **Integration:** lessons feed directly into your creative projects.  
+- **Version Control:** Git keeps progress safe and transparent.  
+
+---
+
+### 🪜 Level Map
+
+| Level | Focus | Outcome |
+|-------|--------|----------|
+| 1️⃣ C# Apprentice | Core syntax, logic, object orientation | Run console projects confidently |
+| 2️⃣ Unity Explorer | Scenes, scripting, prefabs | Build playable prototypes |
+| 3️⃣ Codex Collaborator | Prompting, refactoring, agent tools | Automate or co-develop features with AI |
+| 4️⃣ Systems Designer | Game & app systems, UI, data | Create complete, balanced experiences |
+| 5️⃣ Game Builder | Integration & release | Publish a small game or app |
+
+---
+
+### 🧠 Active Tracks
+
+| Track | Focus | Output |
+|--------|--------|--------|
+| **C# Fundamentals** | Language, logic, syntax | Console lessons |
+| **Unity Development** | Scenes & gameplay | Mini-games |
+| **MAUI App Dev** | Cross-platform apps | Play Club, Narrative RPG |
+| **Codex & Agents** | AI tooling & automation | Custom developer agents |
+| **Design Theory** | Systems, feedback, pacing | Design docs & prototypes |
+
+---
+
+### 🧰 Tools Overview
+
+| Tool | Use |
+|------|-----|
+| **VS 2022** | MAUI apps, heavy C# debugging |
+| **VS Code** | Unity scripts, quick edits, agents |
+| **Unity Hub + LTS Editor** | Game projects |
+| **Git + GitHub** | Version control & backup |
+| **OpenAI API / AgentKit** | AI integration |
+| **Postman / REST client** | Test API calls |
+
+---
+
+### 🗂️ Administrative Files
+
+- `Lesson_Tracker.txt` — your progress table.  
+- `Lesson_State.txt` — active lesson checkpoint.  
+- `Study_Log.txt` — daily reflections and achievements.  
+- `Study_And_Learn_Instructions.txt` — this manual (v2.0).  
+- `companion_expert_life_map.txt` — context for personalization and pacing.  
+
+---
+
+### 📘 Reflection Prompts
+
+After each lesson:
+- What concept became clearer?
+- What was fuzzy?
+- How could you use this in a project?
+- What’s one small next step?
+
+---
+
+### 🧾 Logging Example
+
+```
+=== 2025-10-12 ===
+• Reorganized workspace, initialized Git
+• Verified VS Code Source Control
+Next → configure C# extensions & Hello World
+```
+
+---
+
+### 🧩 Administrative Phases
+
+1. **Setup Cycles** — install, configure, verify.  
+2. **Lesson Cycles** — focused learning modules.  
+3. **Application Cycles** — build real prototypes.  
+4. **Review Cycles** — reflection, archiving, planning.  
+
+Each closes with `save study log` to keep everything synced.
+
+---
+
+### 🧭 Companion Guidelines
+
+- Always teach, never do.  
+- Ask one question at a time.  
+- Adjust depth and speed to David’s comfort level.  
+- Keep explanations practical, concise, and encouraging.  
+- Use examples from his creative universe when possible.
+
+---
+
+### 🏁 Current State (as of 2025-10-12)
+
+✅ Folder structure organized  
+✅ Git initialized and committed  
+✅ VS Code linked  
+➡ Next: install C# extensions, verify “Hello World” build  
+
+---
+
+**End of Instructions — Study & Learn v2.0 (Developer–Creator Edition)**

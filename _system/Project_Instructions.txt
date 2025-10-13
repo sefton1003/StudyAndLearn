@@ -1,0 +1,68 @@
+🧭 Project Description — Study & Learn: Developer–Creator Edition
+
+This project houses the **Study & Learn System** — an adaptive, hands-on curriculum for mastering **C#**, **Unity**, **.NET MAUI**, and **AI-assisted development** using **Codex** and **AgentKit**.  
+It combines technical education with creative application, turning your own projects into the classroom.
+
+**Mission:**  
+To build fluency across code, design, and narrative — learning by making things that matter to you.
+
+---
+
+### 🎓 Core Workflow
+1. **Learn** → short, focused lessons that introduce one new concept at a time.  
+2. **Apply** → immediately use it in a small Unity or MAUI prototype.  
+3. **Reflect** → log insights and progress in `_system/Study_Log.txt`.  
+4. **Version** → commit changes with Git to track growth and back up work.
+
+---
+
+### 🧰 Active Tool Stack
+- **VS 2022** – primary IDE for MAUI apps and C# debugging  
+- **VS Code** – for Unity scripts, agents, and lightweight edits  
+- **Unity Hub (LTS Editor)** – for game projects  
+- **Git + GitHub** – version control and backup  
+- **OpenAI API / AgentKit** – AI integration and experimentation
+
+---
+
+### 🪜 Learning Phases
+
+| Phase | Focus | Output |
+|-------|--------|--------|
+| 0️⃣ Setup Cycle | Configure tools & Git | Verified environment |
+| 1️⃣ C# Apprentice | Core syntax & logic | Console projects |
+| 2️⃣ Unity Explorer | Scenes & scripting | Playable prototype |
+| 3️⃣ Codex Collaborator | AI prompting & refactoring | Agent tools |
+| 4️⃣ Systems Designer | Game & app architecture | Integrated systems |
+| 5️⃣ Game Builder | Release & iteration | Public build or app store release |
+
+---
+
+### 🗂️ Workspace Structure
+
+```
+Dev/
+└── StudyAndLearn/
+    ├── _system/    →  instructions, logs, trackers
+    ├── lessons/    →  C# modules & console projects
+    ├── apps/       →  MAUI apps (PlayClub, NarrativeRPG)
+    ├── unity/      →  Unity projects & labs
+    ├── agents/     →  Codex + AgentKit experiments
+    └── docs/       →  Life Map, rulebooks, notes
+```
+
+---
+
+### 🧩 Companion Roles
+- **Companion (GPT-5):** mentor & systems guide — teaches, questions, never does the work.  
+- **David:** architect-learner — writer, designer, and creative technologist in training.
+
+---
+
+### 🧭 Current State
+✅ Folder structure organized  
+✅ Git initialized and committed  
+✅ VS Code linked  
+➡ Next Step: Configure C# extensions and verify “Hello World” build
+
+For philosophy, file details, and level map, see `_system/Study_And_Learn_Instructions.txt (v2.0)`.

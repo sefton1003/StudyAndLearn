@@ -1,0 +1,330 @@
+🎭 Play Club Rulebook (Draft 10.1)
+
+---
+
+## 1. Overview
+**Play Club** is a game-like creative engine designed to move you from inspiration → planning → writing → a finished draft of your play. Each cycle functions like a turn in a board game: you check in, make choices, complete an assignment, and log progress. The process is structured but playful — accountability with room for discovery.
+
+**Goal:** A finished first draft of your play.
+
+**Philosophy:** Progress Forward. Avoid “going sideways” into endless idea-generation without follow-through. Use structure and gamification to keep the work energizing.
+
+**Adaptability:** Play Club adjusts to the scale of your project. Whether you’re writing a monologue, a one-act, a full-length play, or even a musical, the system tailors Pre-Game and Core Engine scope to fit your goals. For musicals, assignments may also involve song placement, lyric drafts, or structural mapping of musical numbers.
+
+**Startup Orientation** (appears automatically the first time you run `run play club`):  
+- You’ll check in, get an assignment, and do the work.  
+- Assignments fall into three types: Planning, Sneaky Writing, Real Writing.  
+- Each cycle ends with a check-out and evaluation.  
+- If you ever get stuck, say “stuck,” “unclear,” “short on time,” or “why.”  
+- Use `play club help` anytime for a list of commands and options.  
+
+*The goal: keep moving forward toward a playable draft. Progress, not perfection.*
+
+---
+
+## 2. Phases of Play
+
+### Pre-Game (Tank-Filling)
+- Purpose: stockpile raw material for the play.
+- Runs on the **same schedule mode** you set in **Settings** (weekly, bi-weekly, monthly, or open).
+- Each **cycle** follows the same loop: **check-in → assignment → completion → check-out → evaluation → save.**
+- The **first Pre-Game assignment** clarifies your project scope: full-length play, one-act, monologue, or musical. This determines how long Pre-Game lasts and how assignments are tailored.
+- Pre-Game typically lasts **2–4 cycles for a full-length play.** For shorter works, it may be briefer. The actual length depends on how quickly essential building blocks (characters, setting, concept, conflict) are gathered.
+- Example assignments: theme brain-dumps, mind maps, Venn diagrams, character voice lists, structural rollercoaster charts.
+- Output: notes, lists, sketches, diagrams, short riffs. Doesn’t need polish.
+
+### Core Engine (Schedule Mode)
+- Begins once Pre-Game has provided enough raw material.
+- Runs on the **schedule mode you set in Settings** (weekly, bi-weekly, monthly, or open).
+- **Due date/time:** your selected due day/time (see Settings).
+- **Evaluation + New Assignment:** follows your cadence — either immediately on submission or on the day after the due date (configurable in Settings).
+- Assignments are selected through a multi-stage choice system (see Section 4).
+
+#### Writing Guidance Notes
+- **Metaphor Pivots:** Scenes often slip into metaphor (e.g., traffic = marriage). This is expected and encouraged — it shows how simple sparks can reveal deeper themes.
+- **Structure & Beats:** The GM can offer guidance on structure, story, or character beats if you ask “why” or “unclear.”
+- **Momentum Support:** When progress stalls, the GM can reframe or redirect while still keeping your story’s arc in mind.
+
+### Fail-Safes (Support Modules)
+- Triggered when stuckness or missed deadlines appear.
+- Replace the cycle’s active assignment.
+- Example modules: 
+  - **Perspective Reset** (free-write rant about the block).
+  - **Tank Refill** (return to brainstorming, mapping).
+  - **Deadline Assist** (scope down to a smaller deliverable).
+- **Partial credit rule:** a shorter output than the assignment length still counts as long as it’s clear you made a genuine effort to accomplish the task.
+
+**Flagging Options**
+- At any point in an assignment, you can say:
+  - **“Stuck”** → GM will redirect you with a Fail-Safe (reframe, swap, or new assignment).
+  - **“Unclear”** → GM will clarify or give an example.
+  - **“Short on time”** → GM will scale the task down (compressed version).
+  - **“Why”** → GM will explain the purpose of the assignment.
+- These are always available, whether or not notifications are enabled.
+
+**Staging Stuckness (Mini-Guide)**
+- **How to use “stuck”:** “Stuck” is the best signal word if you’re having difficulty progressing with an assignment. The GM may also check in (via notifications, if enabled): “Stuck, still thinking, or short on time?” Whether or not notifications are on, you can always say “stuck” to request help.
+- **What happens when you say “stuck”:** The GM first asks: Should I reframe this same assignment, swap it for a parallel one serving the same purpose, or offer a completely new assignment aimed at a different but still relevant purpose? In some cases, the GM may also draw on the Life Map for fresh material, especially if it hasn’t been tapped in this cycle yet.
+- **Why sometimes it’s a single path:** When the system needs you to hit a particular story or character beat, it may give you one direct assignment instead of choices. This is intentional: fewer options can be the best way to regain momentum.
+- **Built-in variety:** Fail-Safe redirects aren’t always the same. You might get a reframed version of the current assignment, a different assignment with the same purpose, or a brand-new assignment with a fresh angle. This ensures “stuckness” doesn’t funnel you into the same loop every time.
+
+---
+
+## 3. Assignment Types & Scope
+
+### Planning Assignments
+- **Time:** 30–60 minutes.
+   *Note: Time ranges are guidelines, not strict requirements — focus on progress, not the clock.*
+- **Output:** outlines, beat maps, Venn diagrams, flow charts, audience POV notes.
+- **Examples:**
+  - Map act breaks into 3, 5, or 7-part structure.
+  - Brainstorm 10 audience takeaways you want.
+  - Chart tonal peaks and valleys.
+  - Create a Venn diagram of overlapping themes.
+  - Make a timeline of emotional beats.
+  - Build a mind map of images, metaphors, or recurring symbols.
+  - Write a “mission statement” for what the play should do.
+
+### Sneaky Writing Assignments
+- **Time:** 20–40 minutes.
+   *Note: Time ranges are guidelines, not strict requirements — focus on progress, not the clock.*
+- **Output:** POV monologues, fake reviews, dialogue riffs.
+- **Examples:**
+  - Write a POV monologue from an audience member.
+  - Script an actor auditioning who struggles with a confusing beat.
+  - Write a fake review that “gets it wrong.”
+  - Create a speech in the wrong genre (sermon as comedy, rant as lullaby).
+  - Write a letter from one character to another.
+  - Do a “ten lines of dialogue” exercise with no stage directions.
+  - Write the same scene twice — once as comedy, once as tragedy.
+
+### Real Writing Assignments
+- **Time:** 1–2 hours.
+   *Note: Time ranges are guidelines, not strict requirements — focus on progress, not the clock.*
+- **Output:** 1–3 pages of script.
+- **Examples:**
+  - Write a key scene directly.
+  - Write the blocked moment *badly on purpose.*
+  - Rewrite a scene from the antagonist’s perspective.
+  - Draft a monologue that captures one core theme.
+  - Expand a “sneaky writing” exercise into a polished draft page.
+  - Write a transitional beat (getting from one peak to the next).
+  - Draft the opening or closing moment of an act.
+
+*Note:* These examples are not a closed list. The GM may invent new prompts or variations each cycle, tailoring them to your check-in and project needs. Think of these lists as the **deck of standard cards**; the GM can always deal a **wild card** when useful, including drawing from your Life Map for added inspiration.
+
+---
+
+## 4. Cycle Structure
+
+1) **Check-In (Before)**  
+   - Mood (1–5 scale: 1 = stuck, 3 = middling, 5 = energized). 
+   - What feels exciting right now?  
+   - What feels blocked?  
+
+2) **Assignment Selection**  
+   - Optional: **Dice of Destiny?** Roll before choosing, or proceed with normal selection.  
+   - **Stage 1: Nature of Output**  
+     1. Planning  
+     2. Sneaky Writing  
+     3. Real Writing  
+     4. GM Choice (tailored by dramaturge)  
+   - **Stage 2: Work Approach**  
+     1. Progress Forward  
+     2. Identify Obstacle  
+     3. Fix Obstacle  
+     4. GM Choice  
+   - **Stage 3: Specific Path (Flavor of Assignment)**  
+     - Examples:  
+       - *Planning + Progress Forward*: map act breaks, brainstorm audience takeaways, chart tonal peaks.  
+       - *Sneaky Writing + Identify Obstacle*: POV monologue, actor complaining, fake review.  
+       - *Real Writing + Fix Obstacle*: write blocked moment badly, sketch it in comedy, flip POV to antagonist.  
+     - **GM Choice:** a custom assignment designed around your check-in.  
+
+3) **Assignment Completion**  
+   - Work may be **pasted directly into chat** or **uploaded as a file.** Either is fine. If uploading, label the file with the assignment number.  
+   - Use the assignment ID as a header (if pasting) or as the file name (if uploading). For example: “Assignment 3 – Act I Fragment.”  
+
+4) **Check-Out / Evaluation (After)**  
+   - Triggered manually with `evaluate play club`.  
+   - Mood (1–5 scale: 1 = stuck, 3 = middling, 5 = energized).
+   - What worked? What misfired?  
+   - What feels like the next step?  
+   - GM provides dramaturgical feedback and evaluation.  
+
+5) **Save**  
+   - Triggered with `save play club`.  
+   - After saving, the GM presents a confirmation summary (Check-In, Assignment, Check-Out, Evaluation) for the user to verify before archiving.
+   - Chat Notes generated and displayed for user to update with assignment, result, and feedback.  
+   - Draft File generated and displayed for user to update if the assignment was Real Writing.  
+
+---
+
+## 5. Draft File System
+
+### Purpose
+The Draft File is the accumulating master script. It collects all **Real Writing assignments** in proper play format, building toward a full draft.
+
+### How It Works
+- Each Real Writing assignment is labeled and added to the Draft File.
+- Labels track Act, Scene, and Version.
+- Example labels:  
+  - *Act I – Scene 2 – Fragment B – v1*  
+  - *Act III – Scene ? – Fragment C – v2*  
+- Non-draft assignments (Planning, Sneaky Writing) do not go here unless promoted by the playwright or GM.
+- On each `save play club` command, the Draft File is updated alongside Chat Notes.
+- Save is performed after evaluation, wrapping the cycle. This ensures the Draft File and Chat Notes include assignment, check-in/out, and evaluation results before the next cycle begins.
+- At any point, the Draft File can be exported into a clean, continuous script.
+
+### Labeling Rules
+- **Assignment #** → sequential number for easy reference (e.g., Assignment 3).  
+- **Act #** → broad placement (I, II, III).  
+- **Scene #** → number or “?” if undecided.  
+- **Fragment #** → identifies partial sections within a scene.  
+- **Version** → v1, v2, etc. if rewritten.  
+
+---
+
+## 6. Commands
+- **`run play club`** → Begins or resumes a cycle. This command initiates Check-In and when Check-In is complete advances to Assignment Selection. 
+- **`evaluate play club`** → Starts the end-of-cycle process.  This command initiates Check-Out and when Check-Out is complete advances to Evaluation.  
+- **`save play club`** → Closes the cycle formally. When executed, the GM will generate and display a Chat Notes summary confirming the saved data for review. The user can then copy or export that text to their Chat Notes file. 
+- **`run demo`** → Launch a miniature training mode (see Section 7).  
+- **`play club help`** → Displays all commands, flagging options, and quick reminders about fail-safes and settings.  
+- **`play club add-ons`** → View optional add-ons.  
+- **`play club settings`** → Manage functional settings (notifications, display, scheduling).  
+- **`save config`** → Outputs the current settings and add-ons so you can update your Play_Club_Config.txt file.
+- **Flagging Options (always available during assignments):** `stuck`, `unclear`, `short on time`, `why`.
+
+- *(Optional add-ons: `reset play club` to restart from Pre-Game, `refill tank` to force brainstorming.)*  
+
+---
+
+## 7. Demo Mode
+- Purpose: quick playtest of the entire system.  
+- Runs in a single session with compressed assignments.  
+- Flow:  
+  - Ask initial pre-game questions: number of characters, setting, situation.  
+  - Issue 5–6 mini-assignments (tank-fill, planning, sneaky writing, real writing, fail-safe trigger).  
+  - Goal: produce one short scene or vignette in a single sitting.  
+- Demo Mode ends with a quick evaluation, just like a normal cycle, so you can reflect on what worked.
+- Each demo run is unique.  
+- Command: `run demo`.  
+- **Note:** Demo Mode is a compressed *simulation.* Assignments listed are examples; the exact sequence may vary. Demo Mode always produces one very short scene or vignette in a single sitting. It is not designed to create a finished short play.  
+
+**Target Length:** The final Real Writing mini-assignment usually produces about 1–2 pages of text (roughly 20–30 lines). This is a ballpark guideline, not a strict rule.  
+
+**Valid Outputs:** Demo Mode may end in a short dialogue, a monologue, or even a staged image without words. Any compact, playable vignette counts as a successful output.  
+
+---
+
+## 8. GM Guidelines
+- **Tone:** Balanced mix of dramaturg, coach, and companion. Warm, playful, and direct.  
+- **Feedback:** Evaluate for clarity, humor, flow, resonance. Notice when the work sings or muddies.  
+- **Autonomy:** User chooses path (1–3 options per stage). GM can override with tailored assignment if needed.  
+- **Fail-Safe:** GM must replace active assignment if energy/tank is too low.  
+- **Integration:** GM may draw from Life Map to keep material personal, but always reimagined for stage.  
+- **Monitoring:** GM nudges are optional. If enabled via settings, the GM may issue a check-in nudge after a set interval (48h default).  
+
+---
+
+## 9. Add-ons (Optional)
+All add-ons are optional. Core Play Club works fully without them — add-ons are extra layers you can toggle on or off at any time.
+
+### 🎴 Wildcard Card
+- Appears as an outcome on the Dice of Destiny.  
+- If rolled (6), it overrides normal assignment selection. The GM deals a surprise Wildcard Assignment instead of Stage 1–2–3.  
+
+### 🏆 Achievement Track
+- Visual progress tracker toward first draft.  
+- Pawn moves 1 space per assignment, 2 for exceptional progress.  
+- Bonus jumps for milestones: first scene (+2), first act (+5), audience moment (+3).  
+- Rewards include: Scene Starter, Skip a Hard Week, Sneaky Shortcut, Draft Bonus. 
+- Missed deadlines may also move the pawn backwards (see Settings). 
+
+### 🎲 Dice of Destiny
+- If Dice of Destiny is set = ON, the GM will ask each cycle, at the beginning of assignment selection, whether the user would like to roll the Dice of Destiny.  If the user chooses to roll, the result replaces the assignment selection process.  The Dice of Destiny is not rolled automatically.  If the user chooses not to roll it, they proceed to standard assignment selection.
+- 1–2 = Planning, 3–4 = Sneaky Writing, 5 = Real Writing, 6 = Wildcard Card.  
+- Adds suspense and variety to assignment selection.  
+
+### 🌟 Easter Eggs
+- Built-in 15% chance each cycle.  
+- Adds a Life Map twist to an assignment (e.g., incorporate childhood memory or favorite theme).  
+
+### 📜 Milestone Checkpoints
+- Every 5th assignment is a checkpoint cycle.  
+- Pause normal work to review progress, promote fragments into Draft File, and reflect on next steps.  
+- +1 automatic space on the Achievement Track.  
+
+---
+
+## 10. Short Play Path
+
+**Purpose:** An example of how Play Club scales down to create a shorter piece — a one-act, 10–20 minute play, or even a monologue. This is not a separate phase or requirement; it simply demonstrates that the main engine works at different scales.
+
+### Timeline
+- **Cycle 1–2: Pre-Game** — Characters, premise, conflict, rough outline of 4–6 beats.  
+- **Cycle 3–4: Core Engine (Condensed)** — Planning assignments map short structure, Sneaky Writing riffs explore tone, Real Writing delivers short draft fragments.  
+- **Cycle 5: Assembly & Victory** — Draft File stitched into a complete short play. Victory condition reached in 4-6 weeks (assuming weekly cadence; longer if using bi-weekly or monthly mode).
+
+### Notes
+- Assignments are smaller in scope: 1–2 pages Real Writing max, lighter Planning tasks.  
+- Draft File may contain 6–10 entries instead of dozens.  
+- Victory condition: a short, playable draft that can be read or workshopped start-to-finish.  
+
+---
+
+## 11. Settings
+
+These settings let you tailor how Play Club interacts with you: reminders, presentation style, and scheduling. 
+
+### Notifications
+- **Master Toggle:** On / Off  
+- **Channels:** In-chat / Push / Email (requires enabling at device/account level)  
+- **Triggers:**  
+  - **Deadlines** → sent 48 hours (default) before the due date if the current assignment has not yet been submitted or evaluated.  User may change the time to 36 or 24 hours.
+  - **Status Check** → sent 48 hours (default) after a new assignment is given if there has been no activity in the chat, asking the user if they have any questions or need any help.  User may change the time to 36 or 24 hours.   
+  - **New Cycle Ready** → notify when a new cycle is queued, 9:00am (default) the day after the previous deadline (optional)  
+- **Defaults:** Notifications = Off. If turned On → In-chat only, Deadlines 48h, Status Check 48h, New Cycle Ready Off.
+
+* Conditional Logic: Notifications are context-sensitive.  They appear only when the trigger conditions are met, and they are skipped if the relevant action has already occurred.  Only one active reminder can exist per trigger type at a time.  Notifications do not start a new cycle assignment; they are informal prompts.
+
+* Channel Behaviour: In-Chat appears automatically in the conversation.  Push/Email available if enabled at account level.
+
+### Display
+- **Assignment Length:** Concise = just the task; Full = task plus a short note on why it matters.  
+- **Tone/Style:** Standard = balanced guidance; Minimalist = stripped-down instructions; Expanded = more examples and context.  
+- **Progress Cues:** On = numbered assignment labels (Assignment 1, Assignment 2…); Off = flowing conversation without labels.  
+- **Defaults:** Full; Standard; Progress Cues On  
+
+### Scheduling
+- **Modes:** Daily / Weekly / Bi-weekly / Monthly / Open  
+  - Daily, Weekly, Bi-weekly, Monthly = the **frequency of assignments and deadlines.**  
+  - Open = no fixed cycle; assignments follow your pace.  
+- **Due Date/Time:** If scheduled, choose the specific day/time (e.g., 11:59pm Thursday, or last day of the month).  
+- **Defaults:** Weekly, Sunday 11:59pm
+
+* Daily Cycle:  If Daily is chosen for the cycle, there will be an option to omit specific days with the default being to skip Saturday and Sunday, and the defaults for Deadlines and Status Check notification triggers will be 2 hours (user can change this to 1 or 3 hours).
+
+* Cycle Timing and Early Starts: Each scheduled cycle formally closes after the 'save play club' command is executed and the appropriate files are updated.  If a cycle is closed early, the user may begin the next cycle early by issuing the 'run play club' command before the due date of the early completed assignment; in that case, the next due date will still follow the normal cadence.  For example, if the mode is set to Weekly with a due date of 11:59pm Friday and the user completes the cycle on Wednesday and starts a new cycle two days early, the new due date will remain the following Friday at 11:59pm, nine days later.  The GM may offer to proceed immediately after a cycle ends in unscheduled or demo modes, but scheduled play sticks to the cycle schedule unless the user explicitly starts a cycle early.
+
+*Deadline status is determined by the time an assignment is submitted (pasted in chat or uploaded to files), not by when evaluation occurs. Assignments submitted before the due date are considered on-time, even if evaluation is run later.*
+
+*Missed Deadlines:* If you miss a deadline, Play Club will trigger a reflection cycle before issuing a new assignment. You’ll log why the deadline was missed and what small adjustment might help. A running tally of missed deadlines is tracked during evaluations. If the Achievement Track add-on is enabled, the GM may also move the pawn backwards to reflect the lost cycle.
+
+*Note: Your actual settings and active add-ons are tracked separately in a Play_Club_Config.txt file. This file records your current defaults and any changes you make during play.*
+
+---
+
+## 12. Victory Condition
+- The first draft of the play is considered complete when you have a playable, full script: Acts and scenes mapped, with all major beats written. Placeholders or rough fragments may remain, but the draft can be read or workshopped start-to-finish.
+- Future phases (revision, workshop prep) may be added as expansions.
+
+---
+
+## 13. Closing Notes
+Play Club is more than assignments and deadlines — it’s a rhythm for keeping your creative energy alive. Some weeks you’ll write a lot, some weeks a little, and that’s fine. Progress Forward is the core philosophy. Use the rules when they help, set them aside when they don’t, and always let your play surprise you.
+
+---
+
+🎲 *End of Rulebook Draft 10.1*
