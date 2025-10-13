@@ -61,3 +61,11 @@ Next step: configure VS Code for C# extensions and test Hello World.
 Status: Setup Cycle Complete — environment verified, ready for Lesson 0.2 (VS Code C# configuration)
 Next: Open VS Code, install C# Dev Kit + .NET tools, and run “Hello World”
 ---
+=== 2025-10-13 ===
+• Verified .NET 9 SDK and VS Code integration  
+• Created Lesson00_HelloWorld project  
+• Successfully compiled and ran “Hello, Study & Learn!”  
+Status: Environment confirmed working  
+Next → Lesson 3 (C# Classes & Objects)
+
+---
