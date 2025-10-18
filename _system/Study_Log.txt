@@ -77,3 +77,10 @@ Status: Version control workflow fully operational
 Next → Lesson 3: C# Classes & Objects
 
 ---
+=== 2025-10-14 ===
+• Built Character class with properties, constructor, and methods (Speak, Attack, Heal, ShowStatus)
+• Practiced object creation, interaction, and encapsulation
+• Learned how constructors remove null warnings
+• Verified multi-object behavior and dynamic output
+Status: Lesson 3 Part 1 complete — Classes & Objects fundamentals mastered
+Next → Lesson 3 Part 2: Properties, Visibility, and Constructors (deeper dive)
