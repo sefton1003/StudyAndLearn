@@ -38,3 +38,5 @@ C# Classes & Objects 3 | C# Fundamentals | C# Apprentice | 90 | 100 | No | Y | 2
 
 ---
 
+
+C# Classes & Objects 3.2 — Properties & Constructors | C# Fundamentals | C# Apprentice | 80 | 100 | No | Y | 2025-10-18 | Property validation & constructor chaining; console app verified; moving to 3.3.

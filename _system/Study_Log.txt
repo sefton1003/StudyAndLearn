@@ -84,3 +84,16 @@ Next → Lesson 3: C# Classes & Objects
 • Verified multi-object behavior and dynamic output
 Status: Lesson 3 Part 1 complete — Classes & Objects fundamentals mastered
 Next → Lesson 3 Part 2: Properties, Visibility, and Constructors (deeper dive)
+
+──────────  ENTRY  ──────────
+Date: 2025-10-18
+Lesson(s) covered: C# Classes & Objects 3.2 — Properties & Constructors
+Pre-Test quick summary: Strong grasp of properties; needed reminder that parameterless constructor is not auto-generated once a parameterized constructor exists.
+Today’s key concept(s): Auto-properties vs full properties with backing fields; validation/clamping; accessors (get/set, private set); constructors with parameters; constructor chaining via this(...).
+What clicked: Backing fields enabling validation rules; chaining the default constructor to centralize initialization.
+What was fuzzy: Resolved — constructor defaults rule now clear after practice.
+Where I want more practice: Designing property invariants and applying them to RPG entities (Characters/NPCs).
+What I built / changed: Lesson03_PropertiesAndConstructors console app; Character class with clamped Health/Mana, methods (TakeDamage/Heal/ShowStatus); experimented with a third character and varied inputs.
+Time spent: ~45 minutes
+Mood / energy: Focused, confident.
+Next step suggestion (AI): Proceed to Lesson 3.3 — Encapsulation patterns, static members (shared data), and a quick unit-test style check for invariants.
