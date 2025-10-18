@@ -33,3 +33,8 @@ C# Basics 1 — Variables & Types | C# Fundamentals | C# Apprentice | 90 | 100 |
 C# Control Flow 2 | C# Fundamentals | C# Apprentice | 80 | 95 | No | Y | 2025-10-11 | Completed stretch (CodexBuzz 99%)
 
 ---
+
+C# Classes & Objects 3 | C# Fundamentals | C# Apprentice | 90 | 100 | No | Y | 2025-10-14 | Built Character class with methods (Speak, Attack, Heal, ShowStatus); understands encapsulation and constructors.
+
+---
+
