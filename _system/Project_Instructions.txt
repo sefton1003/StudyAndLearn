@@ -36,6 +36,14 @@ To build fluency across code, design, and narrative — learning by making thing
 | 4️⃣ Systems Designer | Game & app architecture | Integrated systems |
 | 5️⃣ Game Builder | Release & iteration | Public build or app store release |
 
+* Update: Lesson Cycle Enhancements *
+
+Beginning with Lesson 3.3, all Study & Learn lessons include two structural upgrades:
+  - Git Integration: each session starts with a pull/sync check and ends with commit-push-tag practice.
+  - Real-World Context: a closing reflection connects the lesson’s concept to real app, game, or agent development.
+
+This keeps learning, workflow, and version control in one continuous rhythm.
+
 ---
 
 ### 🗂️ Workspace Structure
@@ -63,6 +71,6 @@ Dev/
 ✅ Folder structure organized  
 ✅ Git initialized and committed  
 ✅ VS Code linked  
-➡ Next Step: Configure C# extensions and verify “Hello World” build
+
 
 For philosophy, file details, and level map, see `_system/Study_And_Learn_Instructions.txt (v2.0)`.

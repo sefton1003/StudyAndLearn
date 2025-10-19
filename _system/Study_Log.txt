@@ -97,3 +97,12 @@ What I built / changed: Lesson03_PropertiesAndConstructors console app; Characte
 Time spent: ~45 minutes
 Mood / energy: Focused, confident.
 Next step suggestion (AI): Proceed to Lesson 3.3 — Encapsulation patterns, static members (shared data), and a quick unit-test style check for invariants.
+---
+=== 2025-10-18 ===
+• System Enhancement: Added Git Integration and Real-World Context modules to Study & Learn framework.
+• Purpose: Reinforce version-control habits and show how each concept maps to real software practice.
+• Implementation: Begins with Lesson 3.3 onward.
+• Mood / energy: Organized, forward-looking.
+Next → Start Lesson 3.3 – Encapsulation & Static Members (Pre-Test)
+---
+

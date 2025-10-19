@@ -86,6 +86,44 @@ Git tracks everything; VS Code and VS 2022 are both connected editors.
 
 ---
 
+### ✳️ Git Integration (Per Lesson Cycle)
+
+Each lesson now begins and ends with a short Git practice cycle to reinforce professional source-control habits.
+
+At Lesson Start
+  - git pull – make sure the workspace is current.
+  - Verify you’re on the correct branch (usually main).
+  - Confirm git status is clean before starting new work.
+
+At Lesson End
+  - Stage, commit, and push:
+
+      git add .
+      git commit -m "Lesson <n> complete – <topic>"
+      git push
+
+Tag the milestone when finished:
+
+      git tag -a lesson-<n>-<shorttopic> -m "Lesson <n> complete"
+      git push --tags
+
+These checkpoints keep every console project, Unity lab, or MAUI build safely versioned and traceable through your Study & Learn timeline.
+
+### ✳️ Real-World Context Modules
+
+Each lesson now closes with a short Real-World Context section that explains how the day’s concept appears in professional development.
+It connects the abstract to the applied:
+
+Focus		Real-World Connection
+C# Fundamentals	how syntax and logic shape Unity scripts, MAUI pages, and AgentKit tools
+Unity		how object-oriented design patterns translate to gameplay systems
+MAUI	 	how data binding and UI models mirror class structures
+Codex & Agents	how encapsulation and modularity support AI tool design
+
+These sections give every technical step a destination in your creative studio practice.
+
+---
+
 ### 🧰 Tools Overview
 
 | Tool | Use |
